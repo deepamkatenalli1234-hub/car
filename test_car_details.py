@@ -1,4 +1,4 @@
-from car_details import car_details
+from car import car_details
 
 
 def test_car_details_output():
