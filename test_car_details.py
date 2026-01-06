@@ -1,5 +1,5 @@
 import car
-from car_details import car_details
+from test_car_details import car_details
 
 
 class TestCarDetails(unittest.TestCase):
